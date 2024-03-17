@@ -1,3 +1,5 @@
+![DevOps Logo](/png/devops.png)
+
 <h1>This repo contains all the resources I have used in my #90daysofDevops Journey</h1>
 
 <h3> You can also follow my on Socials and stay in loop with my latest articles</h3>
