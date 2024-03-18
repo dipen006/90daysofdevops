@@ -15,6 +15,10 @@
 
 - [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links "Markdown Cheatsheet")
 
+<h2>Bash Scripting</h2>
+
+<p>Updating soon...</p>
+
 <h2>Devops Playlists</h2>
 
 - [Devops Playlist - Train with Shubham](https://www.youtube.com/@TrainWithShubham/videos "Train with Shubham")
