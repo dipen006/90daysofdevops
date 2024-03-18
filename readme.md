@@ -16,8 +16,10 @@
 - [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links "Markdown Cheatsheet")
 
 <h2>Devops Playlists</h2>
-- [Youtube Channel](https://www.youtube.com/@TrainWithShubham/videos "Train with Shubham")
-- [Youtube Playlist](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa "Devops zero to hero")
+
+- [Devops Playlist - Train with Shubham](https://www.youtube.com/@TrainWithShubham/videos "Train with Shubham")
+  
+- [Devops Playlist - Abhishek Veermalla](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa "Devops zero to hero")
 
 <h2>Git and Github</h2>
 
@@ -29,8 +31,8 @@
 - [All Linux Commands - Train with Shubham](https://www.youtube.com/watch?v=cF-tpknh-64&pp=ygUhbGludXggY29tbWFuZHMgdHJhaW4gd2l0aCBzaHViaGFt "All linux commands")
 - [Linux and Shell scripting - Abhishek Veermalla](https://www.youtube.com/watch?v=9jw9F6mcQDo&pp=ygUibGludXggY29tbWFuZHMgYWJoaXNoZWsgdmVlcmFtYWxsYQ%3D%3D "Linux and Shell scripting")
 
+
 <h3>Linux Playlist</h3>
 
 - [Linux Masterclass - Train with Shubham](https://www.youtube.com/watch?v=39oyFIStuaI&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh "Linux Playlist")
-  
   
