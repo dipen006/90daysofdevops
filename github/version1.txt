@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 this is 2nd
+=======
+This is 1st version
+>>>>>>> Stashed changes
+=======
+This is 1st version
+>>>>>>> Stashed changes
