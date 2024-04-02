@@ -17,7 +17,8 @@
 
 <h2>Bash Scripting</h2>
 
-<p>Updating soon...</p>
+<p>Bash Scripting is a way of doing your tasks through the scripts you create </p>
+<p>To run those scripts you can use the commands such as "./scriptName.sh"</p>
 
 <h2>Devops Playlists</h2>
 
