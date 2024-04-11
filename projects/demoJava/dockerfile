@@ -1,0 +1,21 @@
+# GET THE BASE IMAGE
+
+FROM openjdk:11
+
+# CREATE A WORKING DIRECTORY
+
+WORKDIR /app
+
+# COPY APP IN WORKDIR
+
+COPY hello.java /app
+
+# COMPILE THE CODE
+
+RUN javac hello.java
+
+################### THE ABOVE STEPS ARE INTERMEDIATE STEPS ###############
+
+# RUN THE CODE PASSING THE RUN COMMANDS AS ARGUMENTS
+CMD ["java","hello"]
+
