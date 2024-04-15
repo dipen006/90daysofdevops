@@ -1,3 +1,6 @@
 [submodule "projects/projects/node-todo-cicd"]
 	path = projects/projects/node-todo-cicd
 	url = https://github.com/dipen006/node-todo-cicd.git
+[submodule "projects/projects/django-todo-cicd"]
+	path = projects/projects/django-todo-cicd
+	url = https://github.com/dipen006/django-todo-cicd.git
