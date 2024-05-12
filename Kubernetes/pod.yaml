@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: node-todo-pod
+  namespace: todo-app
+spec:
+  containers:
+  -name: todo-container
+  images: rikkkdipen / django-todo-cicd
+  ports:
+	-containerPort: 8000
