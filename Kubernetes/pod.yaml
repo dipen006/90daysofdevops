@@ -8,4 +8,4 @@ spec:
   -name: todo-container
   images: rikkkdipen / django-todo-cicd
   ports:
-	-containerPort: 8000
+  -containerPort: 8000
