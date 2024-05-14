@@ -15,6 +15,15 @@
 
 - [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links "Markdown Cheatsheet")
 
+<h2>CheatSheets</h2>
+
+- [Bash Cheatsheet](https://github.com/rikkkdipen/90daysofdevops/blob/master/CheatSheets/bashCheatsheet.md#links "Bash Cheatsheet")
+- [Python Cheatsheet](https://github.com/rikkkdipen/90daysofdevops/blob/master/CheatSheets/python.md#links "Markdown Cheatsheet")
+- [Linux CheatSheet](https://github.com/rikkkdipen/90daysofdevops/blob/master/CheatSheets/linuxCheatsheet.md#links "Markdown Cheatsheet")
+- [Docker Cheatsheet](https://github.com/rikkkdipen/90daysofdevops/blob/master/CheatSheets/docker.md#links "Markdown Cheatsheet")
+- [Jenkins Cheatsheet](https://github.com/rikkkdipen/90daysofdevops/blob/master/CheatSheets/jenkins.md#links "Markdown Cheatsheet")
+- [Kubernetes Cheatsheet](https://github.com/rikkkdipen/90daysofdevops/blob/master/CheatSheets/kubernetes.md#links "Markdown Cheatsheet")
+
 <h2>Bash Scripting</h2>
 
 <p>Bash Scripting is a way of doing your tasks through the scripts you create </p>
