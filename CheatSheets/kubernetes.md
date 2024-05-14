@@ -1,4 +1,3 @@
-
 # Kubernetes Cheatsheet
 
 # 1. Kubernetes Basics:
@@ -96,5 +95,3 @@
   - `kubectl get ingress`: Lists all Ingress resources.
 
 ---
-
-Feel free to customize this cheatsheet according to your specific needs or environment. Happy Kubernetes-ing!

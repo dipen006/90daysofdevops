@@ -1,5 +1,3 @@
-Certainly! Here's a Linux command-line cheatsheet from absolute basics to advanced, along with simple explanations for each command:
-
 # Linux Basics:
 
 1. **Navigation**:
@@ -91,5 +89,3 @@ Certainly! Here's a Linux command-line cheatsheet from absolute basics to advanc
 3. **Filesystem Management**:
    - `mount` and `umount`: Mount and unmount filesystems.
    - `df -h`: Display filesystem disk space usage.
-
-Remember to always use man pages (`man <command>`) for detailed information about each command and its options. Practice regularly to become proficient with these commands!
