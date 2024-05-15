@@ -1,0 +1,17 @@
+# Volume is a storage given on the disk which gets attached to your system
+
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: mysql-pv-volume
+  namespace: mysql
+  labels:
+    app: mysql
+spec:
+  storageClassName: manual
+  capacity:
+    storage: 2Gi
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: "/home/ubuntu/volume"
