@@ -1,0 +1,21 @@
+---
+  
+  - name: ansible playbook
+    hosts: all
+    become: true
+
+  tasks:
+    - name: install nginx
+      apt:
+        name: nginx
+        state: present
+
+    - name: preload
+      apt:
+        name: preload
+        state: present
+
+    - name: nginx-service
+      service:
+        name: nginx
+        state: started
