@@ -1,8 +1,8 @@
 ---
   
-  - name: ansible playbook
-    hosts: all
-    become: true
+- name: ansible playbook
+  hosts: all
+  become: true
 
   tasks:
     - name: install nginx
