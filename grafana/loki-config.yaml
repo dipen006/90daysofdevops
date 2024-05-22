@@ -1,0 +1,11 @@
+--2024-05-22 23:48:25--  https://raw.githubusercontent.com/grafana/loki/v2.8.0/cmd/loki/loki-local-config.yaml
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1296 (1.3K) [text/plain]
+Saving to: ‘loki-local-config.yaml’
+
+     0K .                                                     100%  140M=0s
+
+2024-05-22 23:48:25 (140 MB/s) - ‘loki-local-config.yaml’ saved [1296/1296]
+
