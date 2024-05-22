@@ -1,0 +1,17 @@
+Linux - Network Chuck
+
+Shell Scripting - CloudFlare Company Engineering Blogs
+use this with 2-3 companies
+
+Docker & Kubernetes - 
+
+AWS, GCP, Azure - 
+
+Tracing, Profiling, Monitoring, Logging
+
+
+CNCF Landscape check all categories
+ and learn one with the most stars
+
+learn Terraform
+
