@@ -1,0 +1,10 @@
+# Create 3 ec2 instances on aws and confgure one of those as master and other 2 as worker
+
+---
+
+- name: Kubernetes Instances
+  hosts: all
+  become: true
+
+  tasks:
+    - name:
