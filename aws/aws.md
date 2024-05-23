@@ -59,4 +59,42 @@ security groups is only for allowing it does now allow denying
 NACL are used for denying unwanted traffic
 
 
+## What is route53
 
+route 53 on AWS provides DNS as service
+DNS stands for Domain name system
+
+When you use ec2 AAWS provides 2 ec2 as service when you use route 53 aws provies DNS as service
+
+on a day to day basis we all use DNS
+
+we use amazon.com, flipkart.com when you use this appllications you directly or indirectly use dns
+
+In VPS you create pb/pv subnet when you create this things with AWS
+they get assigned with Ip address
+we never use ip address in real life
+we never use ip address to access google.com amazon.com
+but we use domain name to access this public sites
+
+domain name in the end access to ip addresses
+
+dns resolves your domain name to the IP addresses
+
+In VPC there will be an ingress gateway or an internet gateway
+inside there you will have public subnet and private sibnet then you will have the load balancers and other configurations
+
+when you create a load balancer AWS gives an IP address to the load balancers
+
+
+why we dont give ip address to the users
+
+- it is difficult to remember
+- IP address can be changed anytime
+
+DNS keeps all the records from servers
+
+and records maps the domain names to the ip addresses
+
+aws provies dns as service
+
+whenever you make an accees request request is first intercepted by route53 it checks it with dns records once it matches the records then route53 will resolve your domain to the ip address
