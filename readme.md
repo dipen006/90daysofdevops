@@ -2,6 +2,8 @@
 
 <h1>This repo contains all the resources I have used in my #90daysofDevops Journey</h1>
 
+we will keep adding more resources to this repo in the future
+
 <h3> You can also follow my on Socials and stay in loop with my latest articles</h3>
 
 - [Hashnode](dipen.hashnode.dev "Dipen's Hashnode")
